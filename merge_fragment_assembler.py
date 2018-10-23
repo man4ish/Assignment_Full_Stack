@@ -65,4 +65,4 @@ if __name__ == "__main__":
       for i in lines:
           lst.append(i.strip())
 
-    print(fobj.get_output_string(lst))
+   print(fobj.get_output_string(lst))
