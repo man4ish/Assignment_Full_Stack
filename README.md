@@ -6,12 +6,12 @@ Algorithm Used for fragments assembler
 4. convert the urlendoded string into normal string.
 
 Usage: 
-python fragment_assembler.py 	&lt; infile	&gt; <br>
+python merge_fragment_assembler.py 	&lt; infile	&gt; <br>
  
 or
 <br>
 
-python fragment_assembler.py <br>
+python merge_fragment_assembler.py <br>
 Enter fragments:
 
 Task2. webservice task
