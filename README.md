@@ -19,5 +19,5 @@ Task2. webservice task
 (1) To start the web service 
 python webservice.py <br>
 (2) To get the output:
-curl http://localhost:5000/todos --data-urlencode "output=&lt;fragments&gt;" -X POST -v
+curl http://localhost:5000/todos --data-urlencode "output=&lt;fragments&gt;" -X POST -v    (Please refer to run.sh script)
 click on http://localhost:5000/todos to get the response on web.
