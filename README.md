@@ -21,3 +21,19 @@ python merge_fragment_webservice.py <br><br>
 (2) To get the output:
 curl http://localhost:5000/todos --data-urlencode "output=&lt;fragments&gt;" -X POST -v    (Please refer to run.sh script) <br>
 click on http://localhost:5000/todos to get the response on web.
+
+
+Tests:
+<br><br>
+Task1. Java shuffled text
+<br>
+python merge_fragment_assembler.py  Java_shuffled_.txt
+<br>
+Output:<br>
+// Sample program <br>
+public class HelloWorld {<br>
+    public static void main(String[] args) {<br>
+        // Prints "Hello, World" to the terminal window.<br>
+        System.out.println("Hello, World");<br>
+    }<br>
+}<br>
