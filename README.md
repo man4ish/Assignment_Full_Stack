@@ -6,15 +6,18 @@ Algorithm Used for fragments assembler
 4. convert the urlendoded string into normal string.
 
 Usage: 
- python fragment_assembler.py 	&lt; infile	&gt;
-or 
+python fragment_assembler.py 	&lt; infile	&gt; <br>
+ 
+or
+<br>
+
 python fragment_assembler.py
 Enter fragments:
 
 Task2. webservice task
 
 (1) To start the web service 
-python webservice.py
+python webservice.py <br>
 (2) To get the output:
-curl http://localhost:5000/todos --data-urlencode "output=<fragments>" -X POST -v
+curl http://localhost:5000/todos --data-urlencode "output=&lt;fragments&gt;" -X POST -v
 click on http://localhost:5000/todos to get the response on web.
