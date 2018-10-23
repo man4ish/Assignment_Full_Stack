@@ -11,7 +11,7 @@ python fragment_assembler.py 	&lt; infile	&gt; <br>
 or
 <br>
 
-python fragment_assembler.py
+python fragment_assembler.py <br>
 Enter fragments:
 
 Task2. webservice task
