@@ -6,7 +6,7 @@ Algorithm Used for fragments assembler
 4. convert the urlendoded string into normal string.
 
 Usage: 
- python fragment_assembler.py <infile>
+ python fragment_assembler.py 	&lt; infile	&gt;
 or 
 python fragment_assembler.py
 Enter fragments:
